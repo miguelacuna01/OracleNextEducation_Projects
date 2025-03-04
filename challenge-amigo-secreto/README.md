@@ -78,11 +78,11 @@ Implementa la lógica del juego:
 ## 🖼️ Capturas de Pantalla
 
 📌 **Interfaz antes del sorteo:**
-
+![Interfaz inicial](assets/interfaz_inicial.png)
 > Input para agregar nombres y botón para sortear.
 
 📌 **Interfaz después del sorteo:**
-
+![Resultados del sorteo](assets/sorteo_amigo_secreto.png)
 > Muestra los resultados con el título "Resultados del Sorteo 🎉" y opción de reinicio.
 
 ---
