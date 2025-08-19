@@ -37,12 +37,12 @@ Telecom X es una empresa de telecomunicaciones que enfrenta una alta tasa de can
 
 - 🔥 **Heatmap de correlación:**  
   <div align="center">
-    <img src="https://raw.githubusercontent.com/hatlpm/ch-TelcomX/main/fig_corr_num.png" alt="Distribución de variables numéricas" width="600"/>
+    <img src="https://github.com/miguelacuna01/OracleNextEducation_Projects/blob/main/ChallengeTelecomX/fig_corr_num.png" alt="Distribución de variables numéricas" width="600"/>
     <p><em>Figura 1: Heatmap de correlación entre variables numéricas relevantes para el churn</em></p>
   </div>
 
 - 🧩 **Gráficos de distribución:**  
   <div align="center">
-    <img src="https://raw.githubusercontent.com/hatlpm/ch-TelcomX/main/fig_dis_num.png" alt="Distribución de variables numéricas" width="600"/>
+    <img src="https://github.com/miguelacuna01/OracleNextEducation_Projects/blob/main/ChallengeTelecomX/fig_dis_num.png" alt="Distribución de variables numéricas" width="600"/>
     <p><em>Figura 2: Distribución de variables numéricas relevantes para el churn</em></p>
   </div>
