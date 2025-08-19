@@ -46,15 +46,3 @@ Telecom X es una empresa de telecomunicaciones que enfrenta una alta tasa de can
     <img src="https://raw.githubusercontent.com/hatlpm/ch-TelcomX/main/fig_dis_num.png" alt="Distribución de variables numéricas" width="600"/>
     <p><em>Figura 2: Distribución de variables numéricas relevantes para el churn</em></p>
   </div>
-
-## 🚀 ¿Cómo ejecutar el notebook?
-
-1. Descarga el archivo `TELCOMXv1.ipynb`.
-2. Ábrelo en Google Colab o Jupyter Notebook.
-3. Verifica que tienes instaladas las librerías necesarias: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
-4. Ejecuta las celdas en orden. Cada sección está comentada y explicada.
-5. Si es necesario, ajusta la ruta de los datos o la API según tu entorno.
-
-## 📬 Contacto
-
-¿Dudas o sugerencias? Escríbeme a Harrison Tutalcha / hatpame@gmail.com.
